@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Doe	jdoe@git.training @test
 
 # THANKS
 
